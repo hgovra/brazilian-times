@@ -2,12 +2,12 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: process.env.REACT_APP_BR_TIMES_API_URL,
+  baseURL: process.env.REACT_APP_BR_TIMES_API_URL + '/api/',
 });
 
 const getNews = (subject) => {
   //return api.get(`top-headlines?category=${subject}&pageSize=${results}&country=br`)
-  return api.get(`/api/${subject}`)
+  return api.get(subject)
     .then(
       ({data}) => {
         //console.log(data);
@@ -19,7 +19,7 @@ const getNews = (subject) => {
 }
 
 const getNewsById = (subject, id) => {
-  return api.get(`/api/${subject}/${id}`)
+  return api.get(`${subject}/${id}`)
     .then(
       ({data}) => {
         //console.log(data);
