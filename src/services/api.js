@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: process.env.REACT_APP_BR_TIMES_API_URL + '/api/',
+  baseURL: process.env.REACT_APP_BR_TIMES_API_URL + 'api/',
 });
 
 const getNews = (subject) => {
