@@ -9,7 +9,6 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Goudy Bookletter 1911', serif;
     overflow-y: scroll;
     background: url(bg.jpg);
-    background-size: contain;
   }
 `;
  
