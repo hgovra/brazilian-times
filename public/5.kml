@@ -1,0 +1,3127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SIGO Furnas SEs.kml</name>
+	<StyleMap id="khStyle690">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="khStyle6900">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69000">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690000">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900000">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69001">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690010">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900100">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690011">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900110">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690012">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900120">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690013">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690014">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900140">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690015">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690016">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900160">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690017">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900170">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690018">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690019">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900190">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69002">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690020">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900200">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690021">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690022">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900220">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690023">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900230">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690024">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900240">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690025">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900250">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690026">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690027">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690028">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690029">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69003">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690030">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6900300">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690031">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690032">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690033">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690034">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690035">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690036">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69004">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690040">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69005">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690050">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69006">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690060">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69007">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690070">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69008">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69009">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690090">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69010">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690100">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69011">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690110">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901100">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690111">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901110">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690112">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901120">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690113">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901130">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690114">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901140">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690115">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901150">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690116">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901160">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690117">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901170">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690118">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901180">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690119">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901190">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69012">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690120">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690121">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901210">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690122">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690123">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690124">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690125">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690126">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690127">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901270">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690128">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690129">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69013">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690130">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901300">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690131">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901310">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690132">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle6901320">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690133">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690134">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690135">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690136">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69014">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690140">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69015">
+		<IconStyle id="khIconStyle694">
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69016">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690160">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69017">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690170">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69018">
+		<IconStyle id="khIconStyle694">
+			<color>ff00ffff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle690180">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="khStyle69019">
+		<IconStyle id="khIconStyle694">
+			<color>ff0055ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="khStyle6902">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690033</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690132</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690026</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690129</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690034</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690119</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690032</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690212">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690213">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69013</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690070</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690214">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690023</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690118</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902140">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690215">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690018</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690216">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690022</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690115</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690217">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900170</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690218">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901320</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690219">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690014</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690015</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69022">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69006</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69017</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69008</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690124</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690019</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69019</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690222">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690122</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690125</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690223">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69018</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690224">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690027</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690225">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690226">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690090</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690227">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690060</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690228">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690123</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690229">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690133</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69023">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69007</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69016</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690050</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle6902300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690231">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690029</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690232">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690013</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69015</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690233">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690025</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690134</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690234">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690235">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690036</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690236">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690012</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690237">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69009</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690238">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690035</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690136</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69024">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69025">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690127</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69026">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690017</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690117</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690016</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690128</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69027">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle69004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle69014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690270">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690028</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690126</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69028">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690024</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690135</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690031</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle69029">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle690010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle690113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="khStyle690290">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#khStyle6900120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#khStyle6901210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_power-plant (2)">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_power-plant (2)</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_power-plant (2)</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_power-plant (2)">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_power-plant (2)">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>C:/Users/Pedro/Downloads/power-plant (2).png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>SIGO Furnas SEs</name>
+		<Placemark>
+			<name>SE Campos</name>
+			<description>Empresa Contratada: 	Núcleo Engenharia Consultiva S.A.
+Nome Empreendimento:	SE Campos - Apoio à Fiscalização
+Instalação:		SE Campos
+Valor do Contrato:	R$ 2.893.456,75
+Termo Contratual:	8000010761
+Status:		Em Andamento
+% Físico Acumulado Realizado:	56%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/13/contrato/21/configuracoes</description>
+			<LookAt>
+				<longitude>-41.33847001818709</longitude>
+				<latitude>-21.71953356143055</latitude>
+				<altitude>0</altitude>
+				<heading>-4.309593501679923</heading>
+				<tilt>2.066822268794335</tilt>
+				<range>177510.1978718303</range>
+			</LookAt>
+			<styleUrl>#khStyle6902220</styleUrl>
+			<Point>
+				<coordinates>-41.33847303245383,-21.7195399927073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Campos 19R e 20R</name>
+			<description>Empresa Contratada: 	Consórcio Campos dos Goytacazes
+Nome Empreendimento:	SE Campos 19R e 20R
+Instalação:		SE Campos
+Valor do Contrato:	R$ 64.309.477,00
+Termo Contratual:	8000010695
+Status:		Em Andamento
+% Físico Acumulado Realizado:	84%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/16/contrato/44/configuracoes</description>
+			<LookAt>
+				<longitude>-41.33822717970538</longitude>
+				<latitude>-21.71968929332016</latitude>
+				<altitude>0</altitude>
+				<heading>-4.309485341622663</heading>
+				<tilt>22.63829623635528</tilt>
+				<range>724.7379252717055</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690211</styleUrl>
+			<Point>
+				<coordinates>-41.33865058030416,-21.71976321978972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Campos 60P</name>
+			<description>Empresa Contratada: 	BR Infra Sistemas e Construções Ltda.
+Nome Empreendimento:	SE Campos 6OP
+Instalação:		SE Campos
+Valor do Contrato:	R$ 15.404.208,00
+Termo Contratual:	8000011424
+Status:		Em Andamento
+% Físico Acumulado Realizado:	74%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/51/contrato/95/configuracoes</description>
+			<LookAt>
+				<longitude>-41.33841144853407</longitude>
+				<latitude>-21.71996607143942</latitude>
+				<altitude>0</altitude>
+				<heading>-4.30941716215392</heading>
+				<tilt>22.63829620347126</tilt>
+				<range>724.7287997684148</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690232</styleUrl>
+			<Point>
+				<coordinates>-41.33817021106056,-21.71874065407922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Angra 7R</name>
+			<description>Empresa Contratada: 	Elmo Eletro Montagens Ltda.
+Nome Empreendimento:	SE Angra 7R
+Instalação:		SE Angra dos Reis
+Valor do Contrato:	R$ 7.928.138,94
+Termo Contratual:	8000011796
+Status:		Em Andamento
+% Físico Acumulado Realizado:	40%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/14/contrato/20/configuracoes</description>
+			<LookAt>
+				<longitude>-44.45719007943298</longitude>
+				<latitude>-23.00634813466611</latitude>
+				<altitude>0</altitude>
+				<heading>9.803785555683387</heading>
+				<tilt>0.1080102263626233</tilt>
+				<range>1895.92936918591</range>
+			</LookAt>
+			<styleUrl>#khStyle690200</styleUrl>
+			<Point>
+				<coordinates>-44.4571995228499,-23.00635281603938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Angra 7R</name>
+			<description>Empresa Contratada: 	Marte Engenharia Ltda.
+Nome Empreendimento:	SE Angra 7R
+Instalação:		SE Angra dos Reis
+Valor do Contrato:	R$ 250.000,00
+Termo Contratual:	8000010807
+Status:		Em Andamento
+% Físico Acumulado Realizado:	50%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/14/contrato/45/configuracoes</description>
+			<LookAt>
+				<longitude>-44.45578627578871</longitude>
+				<latitude>-23.00627535148309</latitude>
+				<altitude>0</altitude>
+				<heading>9.807690805275762</heading>
+				<tilt>32.88757183420178</tilt>
+				<range>1244.580746145205</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690217</styleUrl>
+			<Point>
+				<coordinates>-44.45707136948002,-23.00667757034037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Angra 50P</name>
+			<description>Empresa Contratada: 	TS Infraestrutura e Engenharia S.A
+Nome Empreendimento:	SE Angra 50P
+Instalação:		SE Angra dos Reis
+Valor do Contrato:	R$ 2.698.568,75
+Termo Contratual:	8000012575
+Status:		Em Andamento
+% Físico Acumulado Realizado:	50%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/45/contrato/88/configuracoes</description>
+			<LookAt>
+				<longitude>-44.45578627755891</longitude>
+				<latitude>-23.00627534952753</latitude>
+				<altitude>0</altitude>
+				<heading>9.807690802969383</heading>
+				<tilt>32.88757183585115</tilt>
+				<range>1244.580868329863</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902190</styleUrl>
+			<Point>
+				<coordinates>-44.45668802677352,-23.00737180852415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Adrianópolis</name>
+			<description>Empresa Contratada: 	Portugas Engenharia Ltda.
+Nome Empreendimento:	SE Adrianópolis 1OP e 3OP
+Instalação:		SE Adrianópolis
+Valor do Contrato:	R$ 21.384.920,00
+Termo Contratual:	8000010286
+Status:		Em Andamento
+% Físico Acumulado Realizado:	70%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/15/contrato/22/configuracoes</description>
+			<LookAt id="khLookAt542">
+				<longitude>-43.47658100006363</longitude>
+				<latitude>-22.66543899750115</latitude>
+				<altitude>0</altitude>
+				<heading>-4.310548250811332</heading>
+				<tilt>2.066820510551007</tilt>
+				<range>3928.188675262817</range>
+			</LookAt>
+			<styleUrl>#khStyle6902180</styleUrl>
+			<Point id="khPoint543">
+				<coordinates>-43.47658553463339,-22.66544175741694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Adrianópolis Modernização</name>
+			<description>Empresa Contratada: 	Arteche EDC Equipamentos e Sistemas S.A.
+Nome Empreendimento:	SE Adrianópolis - Moderniz. da Prot. dos Autotrafos AT51 e AT55
+Instalação:		SE Adrianópolis
+Valor do Contrato:	R$ 7.197.252,50
+Termo Contratual:	8000012097
+Status:		Em Andamento
+% Físico Acumulado Realizado:	40%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/34/contrato/35/configuracoes</description>
+			<LookAt>
+				<longitude>-43.47734065638929</longitude>
+				<latitude>-22.66443305722516</latitude>
+				<altitude>0</altitude>
+				<heading>-4.310255213898145</heading>
+				<tilt>2.066818010722794</tilt>
+				<range>3920.551323993554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690212</styleUrl>
+			<Point id="khPoint543">
+				<coordinates>-43.47637364272654,-22.66347989197328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Adrianópolis Adequações</name>
+			<description>Empresa Contratada: 	Andrews Construções Ltda.
+Nome Empreendimento:	SE Adrianópolis - Adequação do Hotel e Pavimentação da Via
+Instalação:		SE Adrianópolis
+Valor do Contrato:	R$ 958.894,13
+Termo Contratual:	8000011620
+Status:		Em Andamento
+% Físico Acumulado Realizado:	80%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/35/contrato/46/configuracoes</description>
+			<LookAt>
+				<longitude>-43.47734065638929</longitude>
+				<latitude>-22.66443305722516</latitude>
+				<altitude>0</altitude>
+				<heading>-4.310255213898145</heading>
+				<tilt>2.066818010722794</tilt>
+				<range>3920.551323993554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902210</styleUrl>
+			<Point id="khPoint543">
+				<coordinates>-43.47637364272654,-22.66347989197328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Samambaia 15R</name>
+			<description>Empresa Contratada: 	Hitachi Energy Brasil Ltda.
+Nome Empreendimento:	SE Samambaia 15R
+Instalação:		SE Samambaia
+Valor do Contrato:	R$ 81.978.776,00
+Termo Contratual:	8000010423
+Status:		Em Andamento
+% Físico Acumulado Realizado:	40%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/18/contrato/149/configuracoes</description>
+			<LookAt>
+				<longitude>-48.17222200000999</longitude>
+				<latitude>-15.92504698576759</latitude>
+				<altitude>0</altitude>
+				<heading>-2.855394914014373</heading>
+				<tilt>2.066229347752769</tilt>
+				<range>3328.838778426801</range>
+			</LookAt>
+			<styleUrl>#khStyle690222</styleUrl>
+			<Point>
+				<coordinates>-48.17222259343313,-15.92504957841039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Samambaia 16R</name>
+			<description>Empresa Contratada: 	GA Engenharia Elétrca Ltda.
+Nome Empreendimento:	SE Samambaia 16R - Implantação de 2 entradas de linhas
+Instalação:		SE Samambaia
+Valor do Contrato:	R$ 7.190.138,00
+Termo Contratual:	8000011911
+Status:		Em Andamento
+% Físico Acumulado Realizado:	60%
+Acasso ao Contrato:</description>
+			<LookAt>
+				<longitude>-48.17236158458095</longitude>
+				<latitude>-15.9242014503556</latitude>
+				<altitude>0</altitude>
+				<heading>-2.855358868526166</heading>
+				<tilt>2.066229873420099</tilt>
+				<range>3330.971508795415</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle69025</styleUrl>
+			<Point>
+				<coordinates>-48.17213716179829,-15.92648439671638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Gurupi 1R</name>
+			<description>Empresa Contratada: 	Hitachi Energy Brasil Ltda.
+Nome Empreendimento:	SE Gurupi 1R
+Instalação:		SE Gurupi
+Valor do Contrato:	R$ 58.809.236,00
+Termo Contratual:	8000010636
+Status:		Em Andamento
+% Físico Acumulado Realizado:	90%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/19/contrato/158/configuracoes</description>
+			<LookAt>
+				<longitude>-49.0092134023309</longitude>
+				<latitude>-11.73506176922444</latitude>
+				<altitude>0</altitude>
+				<heading>-2.854089717689035</heading>
+				<tilt>4.707748452827063</tilt>
+				<range>2540.703837859719</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902300</styleUrl>
+			<Point id="khPoint655">
+				<coordinates>-49.01052993974482,-11.73420853053759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Serra da Mesa 10R</name>
+			<description>Empresa Contratada: 	Consórcio FSC Serra da Mesa 2019
+Nome Empreendimento:	SE Serra da Mesa 10R
+Instalação:		SE Serra da Mesa
+Valor do Contrato:	R$ 30.875.466,00
+Termo Contratual:	8000010944
+Status:		Em Andamento
+% Físico Acumulado Realizado:	90%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/19/contrato/158/configuracoes</description>
+			<LookAt>
+				<longitude>-48.0477777777778</longitude>
+				<latitude>-13.76444444444445</latitude>
+				<altitude>0</altitude>
+				<heading>1.357945276050895</heading>
+				<tilt>0</tilt>
+				<range>2190.36348352451</range>
+			</LookAt>
+			<styleUrl>#khStyle690228</styleUrl>
+			<Point>
+				<coordinates>-48.04778667749085,-13.76444851318919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Serra da Mesa 9R</name>
+			<description>Empresa Contratada: 	Consórcio FSC Serra da Mesa 2019
+Nome Empreendimento:	SE Serra da Mesa 9R - Reman. - Secc. das Barras 9A e 9B
+Instalação:		SE Serra da Mesa
+Valor do Contrato:	R$ 1.960.872,38
+Termo Contratual:	8000011638
+Status:		Em Andamento
+% Físico Acumulado Realizado:	90%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/22/contrato/82/configuracoes</description>
+			<LookAt>
+				<longitude>-48.0477777777778</longitude>
+				<latitude>-13.76444444444445</latitude>
+				<altitude>0</altitude>
+				<heading>1.357945276050895</heading>
+				<tilt>0</tilt>
+				<range>2190.36348352451</range>
+			</LookAt>
+			<styleUrl>#khStyle690220</styleUrl>
+			<Point>
+				<coordinates>-48.04778667749085,-13.76444851318919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Brasilia Geral</name>
+			<description>Empresa Contratada: 	Concremat Engenharia e Tecnologia S.A
+Nome Empreendimento:	SE Brasília Geral 1OP - Subst. Chaves Sec., Disjuntor e Instalação de TC
+Instalação:		SE Brasília Geral
+Valor do Contrato:	R$ 445.87,72
+Termo Contratual:	8000011389
+Status:		Em Andamento
+% Físico Acumulado Realizado:	60%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/21/contrato/74/configuracoes</description>
+			<LookAt>
+				<longitude>-47.95233949831302</longitude>
+				<latitude>-15.81179099921491</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2723458437599353</heading>
+				<tilt>6.862270047706303</tilt>
+				<range>3927.976404396808</range>
+			</LookAt>
+			<styleUrl>#khStyle690230</styleUrl>
+			<Point>
+				<coordinates>-47.95234478121996,-15.81179323928535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Brasilia Geral</name>
+			<description>Empresa Contratada: 	Embrace Participações Ltda.
+Nome Empreendimento:	SE Brasília Geral 1OP - Subst. Chaves Sec., Disjuntor e Instalação de TC
+Instalação:		SE Brasília Geral
+Valor do Contrato:	R$ 825.000,00
+Termo Contratual:	8000011065
+Status:		Em Andamento
+% Físico Acumulado Realizado:	60%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/21/contrato/79/configuracoes</description>
+			<LookAt>
+				<longitude>-47.95233946629884</longitude>
+				<latitude>-15.81179101060148</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2723455969820702</heading>
+				<tilt>6.862270036173401</tilt>
+				<range>3927.976263528131</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690218</styleUrl>
+			<Point>
+				<coordinates>-47.95223953930854,-15.81289636580542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Itumbiara</name>
+			<description>Empresa Contratada: 	Consórcio WEG / Fasttel
+Nome Empreendimento:	SE Itumbiara 16R, 17R, 18R e 4OP
+Instalação:		SE Itumbiara
+Valor do Contrato:	R$ 161.326.336,00
+Termo Contratual:	8000011988
+Status:		Em Andamento
+% Físico Acumulado Realizado:	60%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/26/contrato/25/configuracoes</description>
+			<LookAt>
+				<longitude>-49.10356483343357</longitude>
+				<latitude>-18.40965789720466</latitude>
+				<altitude>0</altitude>
+				<heading>0.6157825681357515</heading>
+				<tilt>8.189183105709308e-13</tilt>
+				<range>5084.120884319224</range>
+			</LookAt>
+			<styleUrl>#khStyle690227</styleUrl>
+			<Point>
+				<coordinates>-49.11434716501073,-18.40802414502841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Poços de Caldas</name>
+			<description>Empresa Contratada: 	TS Infraestrutura e Engenharia Ltda.
+Nome Empreendimento:	SE Poços de Caldas - Modernização do Sist. Proteção RTs - Turn-Key
+Instalação:		SE Poços de Caldas
+Valor do Contrato:	R$ 6.614.535,00
+Termo Contratual:	8000012516
+Status:		Em Andamento
+% Físico Acumulado Realizado:	60%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/29/contrato/26/configuracoes</description>
+			<LookAt>
+				<longitude>-46.6118365207505</longitude>
+				<latitude>-21.79537536752512</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1950205775644773</heading>
+				<tilt>2.818342200309604</tilt>
+				<range>2642.12336658161</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690231</styleUrl>
+			<Point>
+				<coordinates>-46.61240861739404,-21.79791187849675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Poços de Caldas</name>
+			<description>Empresa Contratada: 	Marte Engenharia Ltda.
+Nome Empreendimento:	SE Poços de Caldas - Modernização do Sist. Proteção RTs - Turn-Key
+Instalação:		SE Poços de Caldas
+Valor do Contrato:	R$ 250.000,00
+Termo Contratual:	8000012371
+Status:		Em Andamento
+% Físico Acumulado Realizado:	35%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/29/contrato/85/configuracoes</description>
+			<LookAt>
+				<longitude>-46.61183649956549</longitude>
+				<latitude>-21.7953753618294</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1950201854660504</heading>
+				<tilt>2.818342205938148</tilt>
+				<range>2642.123515526971</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690270</styleUrl>
+			<Point>
+				<coordinates>-46.61245511659248,-21.79688175590255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Poços de Caldas - Sinacon</name>
+			<description>Empresa Contratada: 	Eduardo Godoy Engenharia Ltda.
+Nome Empreendimento:	SE Poços de Caldas - Sinocon e Remanescentes
+Instalação:		SE Poços de Caldas
+Valor do Contrato:	R$ 2.271.593,00
+Termo Contratual:	8000011530
+Status:		Em Andamento
+% Físico Acumulado Realizado:	55%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/31/contrato/63/configuracoes</description>
+			<LookAt>
+				<longitude>-46.61183643581545</longitude>
+				<latitude>-21.79537535592714</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1950190063369394</heading>
+				<tilt>2.818342211638881</tilt>
+				<range>2642.123650252907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902140</styleUrl>
+			<Point>
+				<coordinates>-46.61159462481233,-21.79604112816783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Poços de Caldas - Sinacon</name>
+			<description>Empresa Contratada: 	Bureau Veritas do Brasil Sociedade Classificadora e Certificadora Ltda.
+Nome Empreendimento:	SE Poços de Caldas - Sinocon e Remanescentes
+Instalação:		SE Poços de Caldas
+Valor do Contrato:	R$ 402.208,50
+Termo Contratual:	8000012009
+Status:		Em Andamento
+% Físico Acumulado Realizado:	85%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/31/contrato/86/configuracoes</description>
+			<LookAt>
+				<longitude>-46.61183643581545</longitude>
+				<latitude>-21.79537535592714</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1950190063369394</heading>
+				<tilt>2.818342211638881</tilt>
+				<range>2642.123650252907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690215</styleUrl>
+			<Point>
+				<coordinates>-46.6104139757033,-21.79770553311903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Porto Colômbia 10R</name>
+			<description>Empresa Contratada: 	Tecmon Montagens Técnicas Industriais Ltda.
+Nome Empreendimento:	SE Porto Colômbia 10R
+Instalação:		SE Porto Colômbia
+Valor do Contrato:	R$ 5.200.000,00
+Termo Contratual:	8000011618
+Status:		Em Andamento
+% Físico Acumulado Realizado:	45%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/30/contrato/62/configuracoes</description>
+			<LookAt>
+				<longitude>-48.5748078</longitude>
+				<latitude>-20.1211055</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690224</styleUrl>
+			<Point>
+				<coordinates>-48.57481152098783,-20.12110845299301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Porto Colômbia Modern. Serv. Aux.</name>
+			<description>Empresa Contratada: 	AMC Engenharia e Automação Eireli
+Nome Empreendimento:	SE Porto Colômbia - Modernização Serviço  Auxiliar
+Instalação:		SE Porto Colômbia
+Valor do Contrato:	R$ 7.187.624,00
+Termo Contratual:	8000012381
+Status:		Em Andamento
+% Físico Acumulado Realizado:	45%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/39/contrato/134/configuracoes</description>
+			<LookAt>
+				<longitude>-48.57482987981434</longitude>
+				<latitude>-20.12190027615701</latitude>
+				<altitude>0</altitude>
+				<heading>7.595726804395665e-06</heading>
+				<tilt>0</tilt>
+				<range>1004.411628049236</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902211</styleUrl>
+			<Point>
+				<coordinates>-48.57488600040869,-20.11999874540639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Ivaiporã 60P</name>
+			<description>Empresa Contratada: 	Hitachi Energy Brasil Ltda.
+Nome Empreendimento:	SE Ivaiporã 6OP - SEMI-INTEGRADA
+Instalação:		SE Ivaiporã
+Valor do Contrato:	R$ 9.925.623,00
+Termo Contratual:	8000011814
+Status:		Em Andamento
+% Físico Acumulado Realizado:	75%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/38/contrato/103/configuracoes</description>
+			<LookAt>
+				<longitude>-51.67474092618917</longitude>
+				<latitude>-24.41992859786916</latitude>
+				<altitude>0</altitude>
+				<heading>12.6789916374835</heading>
+				<tilt>0</tilt>
+				<range>11663.65142029966</range>
+			</LookAt>
+			<styleUrl>#khStyle69024</styleUrl>
+			<Point>
+				<coordinates>-51.67474941478741,-24.41993505124512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Ivaiporã 60P</name>
+			<description>Empresa Contratada: 	Montax Engenhenharia e Consultoria Ltda.
+Nome Empreendimento:	SE Ivaiporã 6OP - SEMI-INTEGRADA
+Instalação:		SE Ivaiporã
+Valor do Contrato:	R$ 556.000,00
+Termo Contratual:	8000012178
+Status:		Em Andamento
+% Físico Acumulado Realizado:	65%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/38/contrato/103/configuracoes</description>
+			<LookAt>
+				<longitude>-51.67474089905208</longitude>
+				<latitude>-24.4199285974885</latitude>
+				<altitude>0</altitude>
+				<heading>12.67899162626445</heading>
+				<tilt>0</tilt>
+				<range>11663.65295610129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902130</styleUrl>
+			<Point>
+				<coordinates>-51.67527056611529,-24.42333755450251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Foz do Iguaçu</name>
+			<description>Empresa Contratada: 	EGD Engenhenharia Ltda.
+Nome Empreendimento:	SE Foz - Reparo/Recuperação Eletrodo Bipolo 2
+Instalação:		SE Foz do Iguaçu
+Valor do Contrato:	R$ 6.889.060,50
+Termo Contratual:	8000012200
+Status:		Em Andamento
+% Físico Acumulado Realizado:	55%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/40/contrato/122/configuracoes</description>
+			<LookAt>
+				<longitude>-54.52864453358414</longitude>
+				<latitude>-25.46514798420012</latitude>
+				<altitude>0</altitude>
+				<heading>3.43724558372057</heading>
+				<tilt>1.68494669969407</tilt>
+				<range>5515.079983467543</range>
+			</LookAt>
+			<styleUrl>#khStyle690229</styleUrl>
+			<Point>
+				<coordinates>-54.54102698387452,-25.47252519947708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Mogi das Cruzes</name>
+			<description>Empresa Contratada: 	Núcleo Engenhenharia Consultiva S.A.
+Nome Empreendimento:	Serviços de Apoio Técnico e Suporte Base SP
+Instalação:		SE Mogi das Cruzes
+Valor do Contrato:	R$ 2.571.537,75
+Termo Contratual:	8000012205
+Status:		Em Andamento
+% Físico Acumulado Realizado:	55%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/41/contrato/123/configuracoes</description>
+			<LookAt id="khLookAt553_copy0">
+				<longitude>-46.16219805768412</longitude>
+				<latitude>-23.50303201419179</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2359864334530981</heading>
+				<tilt>1.684742135807629</tilt>
+				<range>2960.931152358583</range>
+			</LookAt>
+			<styleUrl>#khStyle690</styleUrl>
+			<Point id="khPoint561_copy0">
+				<coordinates>-46.16843438058783,-23.5033733912019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE São José</name>
+			<description>Empresa Contratada: 	JF Engenharia Ltda.
+Nome Empreendimento:	Polo Rio - Apoio à Fiscalização
+Instalação:		SE São José
+Valor do Contrato:	R$ 2.289.998,75
+Termo Contratual:	8000011744
+Status:		Em Andamento
+% Físico Acumulado Realizado:	55%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/44/contrato/84/configuracoes</description>
+			<LookAt>
+				<longitude>-43.33193819867023</longitude>
+				<latitude>-22.74869399151381</latitude>
+				<altitude>0</altitude>
+				<heading>-2.857992858211101</heading>
+				<tilt>2.06644392742032</tilt>
+				<range>3990.442141443756</range>
+			</LookAt>
+			<styleUrl>#khStyle690290</styleUrl>
+			<Point>
+				<coordinates>-43.33194223630063,-22.74869414136801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Furnas</name>
+			<description>Empresa Contratada: 	Concert Technologies S.A.
+Nome Empreendimento:	SE Furnas - Apoio à Fiscalização
+Instalação:		SE Furnas
+Valor do Contrato:	R$ 1.356.237,50
+Termo Contratual:	8000012662
+Status:		Em Andamento
+% Físico Acumulado Realizado:	45%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/52/contrato/97/configuracoes</description>
+			<LookAt>
+				<longitude>-46.27361142838969</longitude>
+				<latitude>-20.66607359215962</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06918162031846946</heading>
+				<tilt>0</tilt>
+				<range>15557.22974591396</range>
+			</LookAt>
+			<styleUrl>#khStyle690225</styleUrl>
+			<Point>
+				<coordinates>-46.31739385570322,-20.66776614421154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Cachoeira Paulista</name>
+			<description>Empresa Contratada: 	Bureau Veritas do Brasil Sociedade Classificadora e Certificadora Ltda.
+Nome Empreendimento:	Polo Cachoeira Paulista - Apoio à Fiscalização
+Instalação:		SE Cachoeira Paulista
+Valor do Contrato:	R$ 2.684.730,00
+Termo Contratual:	8000011499
+Status:		Em Andamento
+% Físico Acumulado Realizado:	35%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/55/contrato/102/configuracoes</description>
+			<LookAt>
+				<longitude>-45.03058272610321</longitude>
+				<latitude>-22.63373906401867</latitude>
+				<altitude>0</altitude>
+				<heading>0.3535648796556463</heading>
+				<tilt>6.861450584270224</tilt>
+				<range>1983.841166997598</range>
+			</LookAt>
+			<styleUrl>#khStyle6902100</styleUrl>
+			<Point>
+				<coordinates>-45.03363314936529,-22.63397297595488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Cachoeira Paulista</name>
+			<description>Empresa Contratada: 	Arteche EDC Equipamentos e Sistemas S.A.
+Nome Empreendimento:	SE Cachoeira Paulista - Modernização do Sistema
+Instalação:		SE Cachoeira Paulista
+Valor do Contrato:	R$ 4.217.000,00
+Termo Contratual:	8000011668
+Status:		Em Andamento
+% Físico Acumulado Realizado:	35%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/66/contrato/153/configuracoes</description>
+			<LookAt>
+				<longitude>-45.03058272936684</longitude>
+				<latitude>-22.63373926135649</latitude>
+				<altitude>0</altitude>
+				<heading>0.3535648659984138</heading>
+				<tilt>6.861450386917358</tilt>
+				<range>1983.846545591977</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902230</styleUrl>
+			<Point>
+				<coordinates>-45.03370093942497,-22.63260884862768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Cachoeira Paulista 15R</name>
+			<description>Empresa Contratada: 	CMC Industrial e Energia S.A.
+Nome Empreendimento:	SE Cachoeira Paulista 15R
+Instalação:		SE Cachoeira Paulista
+Valor do Contrato:	R$ 45.243.000,00
+Termo Contratual:	8000012368
+Status:		Em Andamento
+% Físico Acumulado Realizado:	65%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/67/contrato/154/configuracoes</description>
+			<LookAt>
+				<longitude>-45.03058272936684</longitude>
+				<latitude>-22.63373926135649</latitude>
+				<altitude>0</altitude>
+				<heading>0.3535648659984138</heading>
+				<tilt>6.861450386917358</tilt>
+				<range>1983.846545591977</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle6902160</styleUrl>
+			<Point>
+				<coordinates>-45.03644478088578,-22.63070210348927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Tijuco Preto</name>
+			<description>Empresa Contratada: 	Portugas Engenharia Ltda.
+Nome Empreendimento:	SE Tijuco Preto - desmont. mont. eletromec. sist. proteção, controle e superv. equip.
+Instalação:		SE Tijuco Preto
+Valor do Contrato:	R$ 3.704.928.50
+Termo Contratual:	8000011309
+Status:		Em Andamento
+% Físico Acumulado Realizado:	25%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/59/contrato/130/configuracoes</description>
+			<LookAt>
+				<longitude>-46.27163705778733</longitude>
+				<latitude>-23.70948442139375</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1916354357603503</heading>
+				<tilt>1.684731777723999</tilt>
+				<range>6163.824932210778</range>
+			</LookAt>
+			<styleUrl>#khStyle6902260</styleUrl>
+			<Point>
+				<coordinates>-46.27164185295663,-23.70948848584431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Zona Oeste</name>
+			<description>Empresa Contratada: 	Consórcio WEG / Sendi - Furnas
+Nome Empreendimento:	SE Zona Oeste 3R
+Instalação:		SE Zona Oeste
+Valor do Contrato:	R$ 68.648.644,37
+Termo Contratual:	8000012257
+Status:		Em Andamento
+% Físico Acumulado Realizado:	65%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/61/contrato/136/configuracoes</description>
+			<LookAt>
+				<longitude>-43.69812403511484</longitude>
+				<latitude>-22.82701422403928</latitude>
+				<altitude>0</altitude>
+				<heading>-1.723999516508098</heading>
+				<tilt>28.3504895289731</tilt>
+				<range>22288.70788176494</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_power-plant (2)</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-43.71322850840875,-22.87419022556688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Rio Verde</name>
+			<description>Empresa Contratada: 	CMC Industrial e Energia S.A.
+Nome Empreendimento:	SE Rio Verde 18R
+Instalação:		SE Rio Verde
+Valor do Contrato:	R$ 12.850.000,00
+Termo Contratual:	8000012507
+Status:		Em Andamento
+% Físico Acumulado Realizado:	95%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/62/contrato/150/configuracoes</description>
+			<LookAt>
+				<longitude>-50.88199367421905</longitude>
+				<latitude>-17.76133813149899</latitude>
+				<altitude>0</altitude>
+				<heading>-2.856335082876201</heading>
+				<tilt>2.066235321231021</tilt>
+				<range>3347.100063304813</range>
+			</LookAt>
+			<styleUrl>#khStyle690280</styleUrl>
+			<Point>
+				<coordinates>-50.88199521110026,-17.76134560624451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Rio Verde 1 OP</name>
+			<description>Empresa Contratada: 	Leva Serviços de Engenharia Ltda.
+Nome Empreendimento:	SE Rio Verde 18R
+Instalação:		SE Rio Verde
+Valor do Contrato:	R$ 234.373,20
+Termo Contratual:	8000011833
+Status:		Em Andamento
+% Físico Acumulado Realizado:	75%
+Acasso ao Contrato:	http://homo-furnas.avsystemgeo.com.br/empreendimento/70/contrato/157/configuracoes</description>
+			<LookAt>
+				<longitude>-50.881993662652</longitude>
+				<latitude>-17.76133825197735</latitude>
+				<altitude>0</altitude>
+				<heading>-2.856334947861563</heading>
+				<tilt>2.066235200352586</tilt>
+				<range>3347.100611825494</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690260</styleUrl>
+			<Point>
+				<coordinates>-50.88418429532181,-17.76057860991326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Brasilia Sul</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-48.06817700000312</longitude>
+				<latitude>-15.86390099310802</latitude>
+				<altitude>0</altitude>
+				<heading>-0.272350648163211</heading>
+				<tilt>6.862270257252765</tilt>
+				<range>3928.171469753166</range>
+			</LookAt>
+			<styleUrl>#khStyle69029</styleUrl>
+			<Point>
+				<coordinates>-48.06817841265622,-15.86390605355846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Bandeirantes</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt id="khLookAt565">
+				<longitude>-49.23144257804633</longitude>
+				<latitude>-16.79263506642713</latitude>
+				<altitude>0</altitude>
+				<heading>-2.858005891304147</heading>
+				<tilt>2.066242466398532</tilt>
+				<range>3369.139721513809</range>
+			</LookAt>
+			<styleUrl>#khStyle690235</styleUrl>
+			<Point id="khPoint566">
+				<coordinates>-49.23145072120813,-16.7926429326423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Barro Alto</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-48.9283055</longitude>
+				<latitude>-15.11940799656247</latitude>
+				<altitude>0</altitude>
+				<heading>-2.855421513540834</heading>
+				<tilt>2.066230050103148</tilt>
+				<range>3331.005137486451</range>
+			</LookAt>
+			<styleUrl>#khStyle6902</styleUrl>
+			<Point>
+				<coordinates>-48.92831243731457,-15.11941415775833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Cascavel</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-53.44723932134185</longitude>
+				<latitude>-24.99618428491328</latitude>
+				<altitude>0</altitude>
+				<heading>2.975803268696426</heading>
+				<tilt>1.684757876465497</tilt>
+				<range>11414.26681298798</range>
+			</LookAt>
+			<styleUrl>#khStyle69026</styleUrl>
+			<Point>
+				<coordinates>-53.44724483291838,-24.99619152040371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Campinas</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-47.00137151240557</longitude>
+				<latitude>-22.77322003654109</latitude>
+				<altitude>0</altitude>
+				<heading>0.2233857432062738</heading>
+				<tilt>1.684786201213228</tilt>
+				<range>1334.044561816168</range>
+			</LookAt>
+			<styleUrl>#khStyle690213</styleUrl>
+			<Point>
+				<coordinates>-47.00138030995581,-22.77322763171916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Estreito</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-47.06708865031856</longitude>
+				<latitude>-20.28651668834886</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2611204823559195</heading>
+				<tilt>0</tilt>
+				<range>1329.141798760176</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle69020</styleUrl>
+			<Point id="khPoint588_copy1">
+				<coordinates>-47.06961331660933,-20.28645716464993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Fernão Dias</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-51.58982287850594</longitude>
+				<latitude>-19.99756744043996</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3546719912675983</heading>
+				<tilt>0</tilt>
+				<range>3961968.257942237</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690214</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.51500780245755,-23.05583991776722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Grajau</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-43.25979099807836</longitude>
+				<latitude>-22.92560898979611</latitude>
+				<altitude>0</altitude>
+				<heading>-2.857990688760504</heading>
+				<tilt>2.066435094176256</tilt>
+				<range>3963.202591924256</range>
+			</LookAt>
+			<styleUrl>#khStyle690223</styleUrl>
+			<Point>
+				<coordinates>-43.25979190895382,-22.92561235381351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Imbariê</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-43.29294600050568</longitude>
+				<latitude>-22.64217775872598</latitude>
+				<altitude>0</altitude>
+				<heading>-2.857993013664773</heading>
+				<tilt>2.066427846605152</tilt>
+				<range>3940.852327142926</range>
+			</LookAt>
+			<styleUrl>#khStyle690216</styleUrl>
+			<Point>
+				<coordinates>-43.29295176549801,-22.64218645109146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Guarulhos</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt id="khLookAt553_copy1">
+				<longitude>-46.57390866487285</longitude>
+				<latitude>-23.44224808530007</latitude>
+				<altitude>0</altitude>
+				<heading>10.61104821849727</heading>
+				<tilt>0</tilt>
+				<range>3907.185173646725</range>
+			</LookAt>
+			<styleUrl>#khStyle69028</styleUrl>
+			<Point id="khPoint554_copy0">
+				<coordinates>-46.58412096622038,-23.44276297723735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Cachoeira do Itapemirim</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-41.09127016528411</longitude>
+				<latitude>-20.84741956627212</latitude>
+				<altitude>0</altitude>
+				<heading>-2.857995875551769</heading>
+				<tilt>2.066259132580622</tilt>
+				<range>3420.539431666186</range>
+			</LookAt>
+			<styleUrl>#khStyle690237</styleUrl>
+			<Point>
+				<coordinates>-41.09127340860115,-20.84741966686763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Itutinga</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt id="khLookAt669">
+				<longitude>-44.62842201102477</longitude>
+				<latitude>-21.29705253553648</latitude>
+				<altitude>0</altitude>
+				<heading>1.407491526288409</heading>
+				<tilt>0</tilt>
+				<range>7775.452340956656</range>
+			</LookAt>
+			<styleUrl>#khStyle690219</styleUrl>
+			<Point id="khPoint677">
+				<coordinates>-44.62843101830084,-21.2970595726847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Jacarépagua</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt id="khLookAt539">
+				<longitude>-43.42030158724813</longitude>
+				<latitude>-22.92380424628807</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2719863925715651</heading>
+				<tilt>6.863263262024784</tilt>
+				<range>508.9470382319994</range>
+			</LookAt>
+			<styleUrl>#khStyle690234</styleUrl>
+			<Point id="khPoint540">
+				<coordinates>-43.42080676653704,-22.9239813681699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Itaberá</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-49.13253604265305</longitude>
+				<latitude>-23.95091244358861</latitude>
+				<altitude>0</altitude>
+				<heading>11.64113155347596</heading>
+				<tilt>0</tilt>
+				<range>2623.976187956946</range>
+			</LookAt>
+			<styleUrl>#khStyle690221</styleUrl>
+			<Point>
+				<coordinates>-49.13254045481551,-23.95091785448925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Niquelândia</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-48.488739900989</longitude>
+				<latitude>-14.47377592369249</latitude>
+				<altitude>0</altitude>
+				<heading>-2.854057443681977</heading>
+				<tilt>2.06618853938328</tilt>
+				<range>1533.081445908959</range>
+			</LookAt>
+			<styleUrl>#khStyle69021</styleUrl>
+			<Point>
+				<coordinates>-48.48874435567102,-14.473784674809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Marimbondo</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-49.20031259058346</longitude>
+				<latitude>-20.30248158969027</latitude>
+				<altitude>0</altitude>
+				<heading>0.8543540446730973</heading>
+				<tilt>13.58352181541138</tilt>
+				<range>1012.787157743642</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690233</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-49.20331566056993,-20.30121385720046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Marimbondo 2</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-49.20700038472501</longitude>
+				<latitude>-20.25328676631337</latitude>
+				<altitude>0</altitude>
+				<heading>0.8559252071466238</heading>
+				<tilt>5.076795927010369</tilt>
+				<range>6384.882916225734</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle690238</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-49.22472351283573,-20.25166908450177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Paranaíba</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-49.20878602734944</longitude>
+				<latitude>-18.37207478167851</latitude>
+				<altitude>0</altitude>
+				<heading>0.6455014862995376</heading>
+				<tilt>5.766886478782049</tilt>
+				<range>975.2234344510039</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle69023</styleUrl>
+			<Point>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>-49.21041540077986,-18.37173023822647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Rocha Leão</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-42.02271320702571</longitude>
+				<latitude>-22.4265211115239</latitude>
+				<altitude>0</altitude>
+				<heading>-2.857993780436175</heading>
+				<tilt>2.066411044455678</tilt>
+				<range>3889.037741890943</range>
+			</LookAt>
+			<styleUrl>#khStyle69022</styleUrl>
+			<Point>
+				<coordinates>-42.0227136641583,-22.42652211106482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Viana 2</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-40.37933953264626</longitude>
+				<latitude>-19.76522422853146</latitude>
+				<altitude>0</altitude>
+				<heading>-4.243596567762748</heading>
+				<tilt>0</tilt>
+				<range>491.1409445221958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#khStyle69027</styleUrl>
+			<Point>
+				<coordinates>-40.50788893778387,-20.38193095148795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Vitória</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-40.29452102620926</longitude>
+				<latitude>-20.19419033046382</latitude>
+				<altitude>0</altitude>
+				<heading>-2.858001699918267</heading>
+				<tilt>2.066243140806062</tilt>
+				<range>3371.219655513165</range>
+			</LookAt>
+			<styleUrl>#khStyle690226</styleUrl>
+			<Point>
+				<coordinates>-40.29452434137824,-20.19419784122851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Ibiuna</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt>
+				<longitude>-47.10124611337357</longitude>
+				<latitude>-23.66035007685112</latitude>
+				<altitude>0</altitude>
+				<heading>10.82262244226078</heading>
+				<tilt>0</tilt>
+				<range>4205.305483505382</range>
+			</LookAt>
+			<styleUrl>#khStyle690236</styleUrl>
+			<Point>
+				<coordinates>-47.10124648943164,-23.66035057180299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Araraquara</name>
+			<description>Sem contratos cadastrados</description>
+			<LookAt id="khLookAt771">
+				<longitude>-48.25127198144763</longitude>
+				<latitude>-21.77682447795093</latitude>
+				<altitude>0</altitude>
+				<heading>3.846091230115003</heading>
+				<tilt>9.518287811847512e-11</tilt>
+				<range>779.1621500807821</range>
+			</LookAt>
+			<styleUrl>#khStyle690210</styleUrl>
+			<Point id="khPoint772">
+				<coordinates>-48.25179418702252,-21.77497568089642,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
